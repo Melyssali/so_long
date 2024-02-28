@@ -1,0 +1,195 @@
+!XPM42
+32 32 161 2 c
+   #00000000
+.  #211F2AFF
+X  #332928FF
+o  #3A332FFF
+O  #2F2731FF
++  #3E3634FF
+@  #343D37FF
+#  #35313CFF
+$  #3D3538FF
+%  #403B31FF
+&  #533C38FF
+*  #3A483DFF
+=  #574831FF
+-  #52483FFF
+;  #6A5A35FF
+:  #675A3DFF
+>  #427E2FFF
+,  #466F3DFF
+<  #457637FF
+1  #457D34FF
+2  #46753CFF
+3  #48763EFF
+4  #47793BFF
+5  #487C3CFF
+6  #756037FF
+7  #776538FF
+8  #7F6C39FF
+9  #523C40FF
+0  #3D4843FF
+q  #464B4DFF
+w  #435746FF
+e  #445D43FF
+r  #45534AFF
+t  #49574DFF
+y  #475B49FF
+u  #485E4CFF
+i  #575340FF
+p  #495350FF
+a  #4B5851FF
+s  #476645FF
+d  #486646FF
+f  #476C42FF
+g  #496D45FF
+h  #476149FF
+j  #4A644BFF
+k  #4B6C4BFF
+l  #477141FF
+z  #497442FF
+x  #4B7C41FF
+c  #4E724CFF
+v  #4D6550FF
+b  #776641FF
+n  #86783FFF
+m  #8A7D3DFF
+M  #807246FF
+N  #389506FF
+B  #3D9B04FF
+V  #3D950DFF
+C  #3E9B0BFF
+Z  #3E8D1CFF
+A  #3E9315FF
+S  #3F9A12FF
+D  #3F901AFF
+F  #3F8524FF
+G  #3F8B20FF
+H  #409F06FF
+J  #419E0CFF
+K  #418D1DFF
+L  #409317FF
+P  #429C14FF
+I  #41931CFF
+U  #449A1AFF
+Y  #42A402FF
+T  #46AC02FF
+R  #43A40BFF
+E  #47AA0DFF
+W  #49AD0EFF
+Q  #4EB30DFF
+!  #46A512FF
+~  #49A514FF
+^  #47A810FF
+/  #4BAD13FF
+(  #44A31BFF
+)  #4BA11EFF
+_  #4EAA1AFF
+`  #51AD1DFF
+'  #4FB214FF
+]  #4FB118FF
+[  #51B416FF
+{  #54B51BFF
+}  #56B91BFF
+|  #59BA1EFF
+ . #408723FF
+.. #428B23FF
+X. #43842CFF
+o. #448A2CFF
+O. #439323FF
++. #479921FF
+@. #4B9C23FF
+#. #46912BFF
+$. #448231FF
+%. #4A823BFF
+&. #4FA326FF
+*. #54AA25FF
+=. #5CBD21FF
+-. #5FBD29FF
+;. #5AC11DFF
+:. #5EC122FF
+>. #62C226FF
+,. #65C52AFF
+<. #69C72DFF
+1. #66C828FF
+2. #68CC2BFF
+3. #68C82DFF
+4. #6ACA2EFF
+5. #6ACA2DFF
+6. #69C92DFF
+7. #69D22AFF
+8. #6BC932FF
+9. #6DCB32FF
+0. #6DCD31FF
+q. #6FCE32FF
+w. #6ECE31FF
+e. #6ECD32FF
+r. #70CF34FF
+t. #6FD432FF
+y. #70D033FF
+u. #71D133FF
+i. #71D034FF
+p. #72D135FF
+a. #72D335FF
+s. #74D437FF
+d. #72D235FF
+f. #75D438FF
+g. #77D739FF
+h. #77D73AFF
+j. #76D539FF
+k. #76D539FF
+l. #78D73AFF
+z. #79D73CFF
+x. #78D73AFF
+c. #78D83BFF
+v. #7AD93DFF
+b. #7ADA3DFF
+n. #7CDB3EFF
+m. #7DDD3FFF
+M. #7DDD3EFF
+N. #7ADA3DFF
+B. #7EE43DFF
+V. #7FDF41FF
+C. #7EDD40FF
+Z. #7FDE40FF
+A. #918044FF
+S. #9A8C4BFF
+D. #ACA055FF
+F. #80DF42FF
+G. #80DF42FF
+H. #81E043FF
+J. #83E244FF
+K. #84E445FF
+L. #81E143FF
+                    ) =.>.i.x.5.=.[ E ..x u                     
+              B P +.:.5.y.C.G.c.i.>.} ~ F O.u e s               
+            J :.] R <.i.,.n.C.N.g.5.=.R ~ Q O.g o.4             
+          _ B.,.^ ' g.g.{ =.g.g.y.5.>.R { ,.Q ..l #.3           
+          t.n.| ' ,.J.n.{ ,.i.3.,.>.W { { { } U 1 o.%.y         
+        Z -.=.[ >.5.N.H.g.c.g.5.>.=.5.y.5.[ J Z ....B x         
+        O.R ,.=.9.g.=.q.>.y.i.| =.| =.,.| E U C ..X.V o.r       
+      K W =.n.{ 8.K.,.{ q.N.s.q.>.{ R | ,.=.| R V C X.1 k q     
+      C ;.q.H.i.| N.q.| c.C.H.C.g.=.R =.s.=.R I I W R $.f 4     
+    ~ ' E s.C.5.' q.N.=./ y.z.g.q.[ I P / V B F U Q E L X.+.h   
+    7.{ B / 5.=./ >.n.n.5.{ W ' / R P Z R E | / S R E L 4 L 4   
+  +.2.^ R R ,.y.>./ 5.N.g.| >.5.=.[ | | { =.i.q.[ P V K h 4 x   
+  +.[ / ^ =.G.C.i.>.| ,.=.f.c.C.x.,.>.>.| q.N.5.| [ ..X.s z k   
+  =.N _ | [ N.G.N.5.>.>.s.H.g.g.N.,.=.{ ' =.} } =.C ..K z h j   
+  ;.Z >.y.{ ,.q.>.,.q.>.<.q.4.5.,.=.E / P E / [ R O.A $.< 4 u r 
+4 ( / n.G.5.5.=.{ C.C.g.>.} } =./ ^ J G > C A Z ......1 I 1 2 l 
+1 &.Q 9.C.x.q.5.{ g.N.N.i.=.W R R [ { ` E =.*.> ..X.1 P Y $.4 z 
+Z @./ [ s.q.<.c.=.=.{ q.=.5.q.5.,.g.i.=.[ =.Q $.d $.H R O.3 1 4 
+$.L _ C { | g.g.i.G.q.{ / 5.C.i.<.N.g.>.P B F f s I T B X.X.3 g 
+z o.O.R _ { ,.i.n.H.i.g.,.' | ` / ,.=.W ..1 S U I Z ..X...K z y 
+  g $.C | 1.[ =.,.<.r.x.q.,.q.<.q.N.r.{ ' I =.5.' P 1 f 1 z c r 
+    l Z A _ R P ^ [ =.>.>.>.q.i.N.i.s.,.{ ^ q.<.E I X.g z j r   
+      c K X.O. .I Y R E ~ ~ } :.,.=.[ / J V Y U F K 4 y h a     
+      q g ..D L ..X.Z I Z A I ` ' / C J o.4 $.K 1 4 f u r       
+        v z 1 X.1 4 1 L Y J ..V V A ..4 $.1 g f s k g j         
+          4 %., g 1 1 ....4 $...1 , f 4 K ..4 k u c h *         
+            s 3 %.$.4 z 2 u z X.X.l 1 3 f 5 k j e 0             
+                e e j u g t w l 4 4 z k p h w #                 
+                            $ 9 - i @                           
+                          % = n 7 & O X                         
+                        . : S.D.m 8 b +                         
+                          ; S.S.A.6 M o                         
