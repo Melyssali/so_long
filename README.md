@@ -8,5 +8,5 @@
 `./so_long ./maps/big_map.ber`  
 
 
-![Photo de démonstration](./assets/img-projet.png);
-![Photo de démonstration](./assets/img-projet2.png);
+![Photo de démonstration](./assets/img-projet.png)
+![Photo de démonstration](./assets/img-projet2.png)
