@@ -34,7 +34,21 @@ MLX_DIR_INCLUDE = ./libs/MLX42/include/MLX42
 OBJ = $(SRC:.c=.o)
 
 # ---------- REGLES MAKEFILE  ---------- 
-all: $(NAME)
+all: mlx42-setup $(NAME)
+
+mlx42-setup:
+	echo "Cloning MLX42 repository..."
+	cd ./libs && \
+	git clone https://github.com/codam-coding-college/MLX42.git || (echo "MLX42 already cloned" && exit 0)
+	@echo "Entering MLX42 directory..."
+	cd ./libs/MLX42 && \
+	cmake -B build && \
+	cmake --build build -j4
+
+sanitize: CFLAGS += -fsanitize=address
+sanitize: all
+leaks: all
+	leaks --atExit -- ./$(NAME) ./maps/map2.ber
 
 # Compile les fichiers objets et crée la bibliothèque
 $(NAME): $(OBJ)
